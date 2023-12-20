@@ -1,0 +1,57 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.cardRight{
+  width: 592px;
+  font-size: 14px;
+  margin: 0 auto;
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+}
+span{
+  color:#EE24FF;
+}
+p{
+  font-size: 15px;
+  padding: 10px;
+  color: #828282;
+  text-align: center;
+}
+
+ul{
+  max-width: 391px;
+  border-top: 1px solid #ECEFF2;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 30px;
+  margin: 0 auto 30px;
+  padding-top:30px ;
+  font-weight: bolder;
+
+  
+}
+a{
+  color:  black;
+}
+
+footer{
+  position: fixed;
+  bottom: -5px;
+  width: 100vw;
+}
+
+footer img{
+  height: 90px;
+  width: 100%; 
+  
+}
